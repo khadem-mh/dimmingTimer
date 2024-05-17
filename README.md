@@ -17,7 +17,7 @@
 
 ## View of the Project
 
-<img src="./Video/timer.gif" width="500"/>
+<img src="./Video/dimmingTimer.gif" width="500"/>
 
 check this [URL](https://khadem-mh.github.io/dimmingTimer/) for visit this page
 ___
