@@ -7,7 +7,7 @@ let hour = minute * 60
 let day = hour * 24
 
 // اون تاریخی که قراره بهش برسیم
-let countDown = new Date('Sep 20, 2025 00:00:00').getTime();
+let countDown = new Date('Sep 20, 2015 00:00:00').getTime();
 
 const myRacing = () => {
 
